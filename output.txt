@@ -1,0 +1,17 @@
+m1's path: NNEENEESSS
++++x+
+xx***
+***x*
+*x x*
+*xxx*
+
+m2's path: WWWWWWSSSEEEEESEEEEEENNNNN
+xxxxxxxxxxxxxxxxxx*x
+x     x*******xxxx*x
+x xxxxx*+xxxxx++xx*x
+x xxxxx*xxxxxxx+xx*x
+x x++++******xx+xx*x
+x xxxxxxxxxx*******x
+xxxxxxxxxxxxxxxxxxxx
+
+Done.
