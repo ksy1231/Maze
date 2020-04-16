@@ -59,7 +59,7 @@ private:
     // path to the exit
     string path;
     // help recursion
-    bool success = false;
+    bool success;
 };
 
 #endif /* creature_hpp */
